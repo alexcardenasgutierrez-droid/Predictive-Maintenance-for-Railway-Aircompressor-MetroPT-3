@@ -1,0 +1,6 @@
+experiment_name,model,TN,FP,FN,TP
+chronological_split,RandomForestClassifier,452730,733,819,803
+undersample_50_50,RandomForestClassifier,450274,3189,427,1195
+undersample_70_30,RandomForestClassifier,450707,2756,429,1193
+smote_0.05,RandomForestClassifier,452672,791,502,1120
+SMOTEtomek_0.05,RandomForestClassifier,452768,695,610,1012
