@@ -4,3 +4,8 @@ undersample_50_50,RandomForestClassifier,450274,3189,427,1195
 undersample_70_30,RandomForestClassifier,450707,2756,429,1193
 smote_0.05,RandomForestClassifier,452672,791,502,1120
 SMOTEtomek_0.05,RandomForestClassifier,452768,695,610,1012
+First_drop,RandomForestClassifier,452727,736,496,1126
+Drop_TP3,RandomForestClassifier,452940,523,690,932
+DV_electric,RandomForestClassifier,452594,869,606,1016
+COMP,RandomForestClassifier,452740,723,492,1130
+Towers&COMP,RandomForestClassifier,452810,653,497,1125
