@@ -9,3 +9,4 @@ Drop_TP3,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,Ra
 DV_electric,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,RandomForestClassifier,0.15,0.9987,0.5794,0.539,0.6264,0.4193,0.9976
 COMP,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,RandomForestClassifier,0.15,0.9987,0.6504,0.6098,0.6967,0.3483,0.9981
 Towers&COMP,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,RandomForestClassifier,0.15,0.9987,0.6618,0.6327,0.6936,0.337,0.9979
+optuna,chronological split + smote sampling strategy 0.43 + threshold 0.6,Pipeline,0.15,0.9852,0.6144,0.5593,0.6815,0.3708,0.9888

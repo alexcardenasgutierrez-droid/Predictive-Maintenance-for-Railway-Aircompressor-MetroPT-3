@@ -9,3 +9,4 @@ Drop_TP3,RandomForestClassifier,452940,523,690,932
 DV_electric,RandomForestClassifier,452594,869,606,1016
 COMP,RandomForestClassifier,452740,723,492,1130
 Towers&COMP,RandomForestClassifier,452810,653,497,1125
+optuna,Pipeline,75401,145,86,184
