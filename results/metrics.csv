@@ -11,3 +11,4 @@ COMP,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,Random
 Towers&COMP,chronological split + SMOTE sampling_strategy=0.0.5 + threshold=0.15,RandomForestClassifier,0.15,0.9987,0.6618,0.6327,0.6936,0.337,0.9979
 optuna,chronological split + smote sampling strategy 0.43 + threshold 0.6,Pipeline,0.15,0.9852,0.6144,0.5593,0.6815,0.3708,0.9888
 optuna,chronological split + smote sampling strategy 0.43 + threshold 0.6,Pipeline,0.6,0.9852,0.0,0.0,0.0,0.9852,0.9888
+optuna,chronological split + smote sampling strategy 0.43 + threshold 0.6,Pipeline,0.06,0.9852,0.3342,0.2181,0.7148,0.651,0.9888

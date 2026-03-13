@@ -11,3 +11,4 @@ COMP,RandomForestClassifier,452740,723,492,1130
 Towers&COMP,RandomForestClassifier,452810,653,497,1125
 optuna,Pipeline,75401,145,86,184
 optuna,Pipeline,75546,0,270,0
+optuna,Pipeline,74854,692,77,193
